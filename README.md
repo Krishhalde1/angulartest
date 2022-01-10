@@ -89,3 +89,4 @@ The 2 paths used in the routing module are
 ## Angular 6 References
 
 Refer to https://angular.io/guide/quickstart to get an understanding of how angular 6 works
+# angulartest
